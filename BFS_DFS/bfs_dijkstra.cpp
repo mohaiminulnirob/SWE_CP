@@ -74,3 +74,30 @@ int32_t main()
     }
     return 0; 
 }
+/*
+BFS
+
+Oil deposits(5B cf)
+Graph Connectivity(5C uva)
+Kefa and park(dfs)(5D cf)
+Counting rooms(cses)
+Labyrinth(cses)
+Building roads(cses)
+Building teams(cses)
+Arrow path(cf)
+ABCpath(lab final1 C spoj)
+All roads leads where(1M uva)
+Bombs! no they are mines(1N uva)
+The mysterious x-network(1O uva)
+Shipping routes(1P uva)
+Best picnic ever(1U lightoj)
+Escape(1V lightoj)
+Farthest node in a tree(5E,1W lightoj)
+Farthest node in a tree II(1X lightoj)
+Ada & cycle(3A spoj)
+Spiky mazes(3B spoj)
+Spiders(3D cf)
+Arbitrage(3F spoj)
+Adrita and bike ride(3H spoj)
+
+*/
